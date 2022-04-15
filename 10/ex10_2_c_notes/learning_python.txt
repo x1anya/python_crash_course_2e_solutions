@@ -1,0 +1,5 @@
+In Python you can write programs to achieve your goals.
+In Python you can calculate numbers.
+In Python you can analyze data and get some information.
+In Python you can deal with texts.
+In Python you can do whatever you want!
